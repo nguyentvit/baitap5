@@ -49,6 +49,7 @@
     <Compile Include="BLL\QLSVBLL.cs" />
     <Compile Include="DAL\DBHelper.cs" />
     <Compile Include="DAL\QLSVDAL.cs" />
+    <Compile Include="demo.cs" />
     <Compile Include="DTO\CBBItem.cs" />
     <Compile Include="DTO\DataView.cs" />
     <Compile Include="DTO\LopSH.cs" />
